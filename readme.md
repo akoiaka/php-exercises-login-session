@@ -5,6 +5,7 @@ Pour cela vous devez :
     Créer une Base de Données pour enregistrer les données saisies par  l’utilisateur(login, mot de passe).
     Créer un formulaire et un script qui permette d'insérer les données de l'utilisateur.
     Ajouter au code une Fonction pour pouvoir crypter le mot de passe afin de le rendre plus sécurisé (hash).
-    Créer le Code pour l’identification de l’utilisateur(condition).Si correct lien vers une page sécurisée avec "bienvenue dans votre espace perso", sinon lien vers une page "accès refusé".
+    Créer le Code pour l’identification de l’utilisateur(condition).Si correct lien vers une page sécurisée
+    avec "bienvenue dans votre espace perso", sinon lien vers une page "accès refusé".
     Ajouter un Code permettant de récupérer des données de pages en pages(session).
     Créer un code de déconnexion et destruction de la session.
