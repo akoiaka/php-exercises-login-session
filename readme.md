@@ -1,4 +1,4 @@
-!![alt tag](http://www.emmausonline.it/wp-content/uploads/2016/04/Computers_Password_guessing_041153_.jpg)
+![alt tag](http://www.emmausonline.it/wp-content/uploads/2016/04/Computers_Password_guessing_041153_.jpg)
 
 Créer une page permettant à l’utilisateur d’être inscrit sur un site et lui donner le droit d'accès à un espace sécurisé ;
 
