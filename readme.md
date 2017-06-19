@@ -10,8 +10,8 @@ Pour cela vous devez :
 
 * Ajouter au code une Fonction pour pouvoir crypter le mot de passe afin de le rendre plus sécurisé (sha1, hash, md5...).
 
-* Créer le Code pour l’identification de l’utilisateur(condition).Si correct lien vers une page sécurisée
-    avec "bienvenue dans votre espace perso", sinon lien vers une page "accès refusé".
+* Créer le Code pour l’identification de l’utilisateur(condition).Si correct, lien vers une page sécurisée
+    avec "bienvenue dans votre espace perso", sinon, lien vers une page "accès refusé".
     
 * Ajouter un Code permettant de récupérer des données de pages en pages(session).
 
