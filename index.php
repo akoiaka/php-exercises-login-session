@@ -15,3 +15,5 @@ $_SESSION['time']     = time();
 // Ou bien, en indiquant explicitement l'identfiant de session
 echo '<br /><a href="page2.php?' . SID . '">page 2</a>';
 ?>
+
+
